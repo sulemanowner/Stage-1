@@ -15,3 +15,9 @@ Run the script to see example outputs:
 
 ```bash
 python qa.py
+
+### Step 4: Stage and Commit Your Changes
+
+1. **Stage Files**:
+   ```bash
+   git add qa.py README.md
